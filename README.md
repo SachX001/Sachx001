@@ -11,6 +11,8 @@ I actively work on improving my fundamentals while gradually moving towards **op
 ### Languages
 - **C++** (STL, OOP, data structures, problem solving)
 - **Python** (general scripting and data analysis)
+- **Kotlin** (building UI/UX for android applications)
+- **javascript** (DOM manipulation, event handling, form validation, dynamic content, and interactive UI development)
 
 ### Libraries & Tools
 - Python: **NumPy**, **Pandas**, **Matplotlib**
